@@ -32,8 +32,3 @@
 - [ ] Use a data type that best suits the needs such as StringBuilder, generic collection classes.
 - [ ] Lazy loading, asynchronous and parallel processing.
 - [ ] Caching and session/application data.
-- [ ] Single Responsibilty Principle
-- [ ] Open/Closed Principle
-- [ ] Liskov Substitution Principle
-- [ ] Interface Segregation Principle
-- [ ] Dependency Inversion
