@@ -4,7 +4,7 @@
 
 ### Changes
 
-- <code_changes>
+- <code_changes_description>
 
 ### Notes
 
