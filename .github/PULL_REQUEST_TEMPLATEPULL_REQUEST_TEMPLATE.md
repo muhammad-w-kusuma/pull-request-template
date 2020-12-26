@@ -10,7 +10,7 @@
 
 - <write_a_note>
 
-### Checklist
+### Please check if the PR fulfills these requirements
 
 - [ ] Separation of concerns
 - [ ] Use appropriate design pattern
